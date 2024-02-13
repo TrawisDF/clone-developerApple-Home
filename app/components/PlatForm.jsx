@@ -16,7 +16,7 @@ const PlatForm = () => {
           <li>
             <a href="#">
               <div className="flex flex-col text-center justify-center">
-                <Image
+                <img
                   src="https://developer.apple.com/assets/elements/icons/platforms/icon-ios-i.svg"
                   alt=""
                   className="w-[50px] h-[50px] mx-auto"
@@ -28,7 +28,7 @@ const PlatForm = () => {
           <li>
             <a href="#">
               <div className="flex flex-col text-center justify-center">
-                <Image
+                <img
                   src="https://developer.apple.com/assets/elements/icons/platforms/icon-ipados-i.svg"
                   alt=""
                   className="w-[50px] h-[50px] mx-auto"
@@ -40,7 +40,7 @@ const PlatForm = () => {
           <li>
             <a href="#">
               <div className="flex flex-col text-center justify-center">
-                <Image
+                <img
                   src="https://developer.apple.com/assets/elements/icons/platforms/icon-macos-i.svg"
                   alt=""
                   className="w-[50px] h-[50px] mx-auto"
@@ -52,7 +52,7 @@ const PlatForm = () => {
           <li>
             <a href="#">
               <div className="flex flex-col text-center justify-center">
-                <Image
+                <img
                   src="https://developer.apple.com/assets/elements/icons/platforms/icon-tvos-i.svg"
                   alt=""
                   className="w-[50px] h-[50px] mx-auto"
@@ -64,7 +64,7 @@ const PlatForm = () => {
           <li>
             <a href="#">
               <div className="flex flex-col text-center justify-center">
-                <Image
+                <img
                   src="https://developer.apple.com/assets/elements/icons/platforms/icon-visionos-i.svg"
                   alt=""
                   className="w-[50px] h-[50px] mx-auto"
@@ -76,7 +76,7 @@ const PlatForm = () => {
           <li>
             <a href="#">
               <div className="flex flex-col text-center justify-center">
-                <Image
+                <img
                   src="https://developer.apple.com/assets/elements/icons/platforms/icon-watchos-i.svg"
                   alt=""
                   className="w-[50px] h-[50px] mx-auto"

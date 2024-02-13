@@ -7,7 +7,7 @@ const Subfooter = () => {
         <div className="flex flex-col justify-start text-center group hover:pointer-events-auto mt-10 px-5 md:px-7">
           <a href="#">
             <div className="flex justify-center">
-              <Image
+              <img
                 className="w-[50px] h-[50px]"
                 src="https://developer.apple.com/assets/elements/icons/wwdr-unified/download-c.svg"
                 alt=""
@@ -31,7 +31,7 @@ const Subfooter = () => {
         <div className="flex flex-col justify-start text-center group hover:pointer-events-auto mt-10">
           <a href="#">
             <div className="flex justify-center">
-              <Image
+              <img
                 className="w-[50px] h-[50px]"
                 src="https://developer.apple.com/assets/elements/icons/wwdr-unified/documentation-c.svg"
                 alt=""
@@ -55,7 +55,7 @@ const Subfooter = () => {
         <div className="flex flex-col justify-start text-center group hover:pointer-events-auto mt-10">
           <a href="#">
             <div className="flex justify-center">
-              <Image
+              <img
                 className="w-[50px] h-[50px]"
                 src="https://developer.apple.com/assets/elements/icons/wwdr-unified/play-c.svg"
                 alt=""
@@ -79,7 +79,7 @@ const Subfooter = () => {
         <div className="flex flex-col justify-start text-center group hover:pointer-events-auto mt-10">
           <a href="#">
             <div className="flex justify-center">
-              <Image
+              <img
                 className="w-[50px] h-[50px]"
                 src="https://developer.apple.com/assets/elements/icons/wwdr-unified/forum-c.svg"
                 alt=""

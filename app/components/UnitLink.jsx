@@ -10,7 +10,7 @@ const UnitLink = () => {
           Vision Pro.
         </p>
       </div>
-      <Image
+      <img
         className=" mx-auto w-[750px] mt-[70px]"
         src="https://developer.apple.com/home/images/tile-visionos-labs/vision-side_2x.webp"
         alt=""
