@@ -55,7 +55,7 @@ const Superfoot = () => {
           >
             {eng}{" "}
             <span>
-              <img
+              <Image
                 src="/dropdown.png"
                 className={`w-3 h-3 ${langTog ? "rotate-180" : null}`}
                 alt="none"

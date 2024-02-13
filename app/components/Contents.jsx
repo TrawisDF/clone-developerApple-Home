@@ -6,7 +6,7 @@ const Contents = () => {
       {/* Top Left*/}
       <div className="col-span-1 relative h-[580px] bg-[rgba(240,240,240,0.8)] border-4 border-white">
         <a href="#" className="relative flex flex-col items-center h-full">
-          <img
+          <Image
             src="https://developer.apple.com/home/images/tile-hello-developer-nobg/feb24-xds/hello-developer-light-medium_2x.png"
             alt=""
             className="w-full h-full object-cover"
@@ -23,7 +23,7 @@ const Contents = () => {
       {/* Top Right */}
       <div className="col-span-1 relative h-[580px] border-4 border-white">
         <a href="#" className="relative flex flex-col items-center h-full">
-          <img
+          <Image
             src="https://developer.apple.com/home/images/tile-events-promo/events-coding-medium_2x.jpg"
             alt=""
             className="w-full h-full object-cover"
@@ -39,14 +39,14 @@ const Contents = () => {
 
       {/* Bottom Left */}
       <div className="col-span-1 relative h-[580px] border-4 border-white">
-        <img
+        <Image
           src="https://developer.apple.com/home/images/tile-event-asa-2023/w-large_2x.jpg?2"
           alt=""
           className="w-full h-full object-cover"
         />
         <a href="#" className="flex flex-col items-center">
           <div className="absolute top-0 text-black mt-5 text-center">
-            <img
+            <Image
               src="https://developer.apple.com/home/images/tile-event-asa-2023/app-store-awards-2023.svg"
               alt=""
               className=" max-w-[310px] pt-4"
@@ -58,7 +58,7 @@ const Contents = () => {
       {/* Bottom Right */}
       <div className="col-span-1 relative h-[580px] bg-[#f0f0f0cc] border-4 border-white">
         <a href="#" className="relative flex flex-col items-center m-1">
-          <img
+          <Image
             src="https://developer.apple.com/home/images/tile-ssc/small_2x.png?2"
             alt=""
             className="w-[516px] h-[490px] md:w-[734px] md:h-[548px] object-cover"

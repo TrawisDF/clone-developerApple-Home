@@ -4,7 +4,7 @@ const DevPrograms = () => {
   return (
     <div className="bg-gradient-to-r from-pink-400 via-purple-600 to-indigo-900 mt-2 w-full pb-[35px]">
       <div className="pt-[80px] my-2">
-        <img
+        <Image
           className="w-[144px] aspect-[auto 144/72] mx-auto"
           src="https://developer.apple.com/app-store/features/images/members.svg"
           alt=""

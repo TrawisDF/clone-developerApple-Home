@@ -13,7 +13,7 @@ const BuildYourApp = () => {
         </p>
       </div>
       <div>
-        <img
+        <Image
           className="w-[1680px] aspect-[auto 2560/376] mx-auto"
           src="https://developer.apple.com/home/images/hero-build-apps/build-apps_2x.png"
           alt=""
